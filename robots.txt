@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://core-e42.pages.dev/sitemap.xml
